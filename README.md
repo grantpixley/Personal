@@ -1,2 +1,2 @@
 # Personal
-Personal Projects
+Grant Pixley Summer 24 Personal Projects
